@@ -115,7 +115,7 @@ class Checkout extends \arrakis\view\cart\Cart {
                 
                     <div class="row">
                         <div class="form-action" id="payment-button">
-                            <button id='makePayment' class="btn  pull-right" name='make payment' style="margin-right: 3%">Make payment</button>
+                           <!-- <button id='makePayment' class="btn  pull-right" name='make payment' style="margin-right: 3%">Make payment</button> -->						   <button  class="btn  pull-right"  style="margin-right: 3%">Make payment</button>
                            
                         </div>
                     </div>
